@@ -14,4 +14,10 @@ Repositorio con ejemplo de implementación de patrón Client/Servidor aplicado a
 Se deberá haber establecido una conexión con el servidor. 
 Puede proceder a interactuar.
 
+# Instrucciones de interacción con los comandos del cliente:
+1. Add: para usar este comando deberá agregar la palabra "Add", un espacio y agregar la cadena de ADN de la que desee obtener su gen.
+2. La cadena deberá escribirse en su formato ATGC: ATCGTATATGCTGAAAACATGCTTTAAGAGATT
+3. List: para usar este comando deberá agregar la palabra "List"
+4. Exit: para usar este comando deberá agregar la palabra "Exit"
+
 Saludos!
